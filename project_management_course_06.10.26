@@ -2,4 +2,8 @@ Types of project management plans
 
 Linear // Initiation -> Planning -> Execution -> Control -> Closure
 
-This plan is traditional, the plan stays thes same throughout your project
+This plan is traditional, the plan stays thes same throughout your project [GANTT chart]
+
+Iterative // Multiple sprints, so small linear plans. Which rapidly creates a basic product, then build on it
+
+This plan is common in software dev, as you can build a basic simulation then build on it

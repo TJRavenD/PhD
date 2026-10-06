@@ -11,3 +11,14 @@ This plan is common in software dev, as you can build a basic simulation then bu
 Exploratory // Evaluate landscape -> Identify leads - > Assess leads -> Deploy lead
 
 This is for novel science, where there are many routes so you start by evaluating landscape
+
+Overall how to plan iterative/exploratory
+
+Gantt chart to capture high level milestones
+Need a dynamic tool to manage scope within sprints, plan made at start of sprint which can be modified
+Kanban used to coordinate activities within the sprint
+Scope for later sprints undefined
+
+Rolling wave // Put in place high level milestones -> only do detailed plans up to early milestones -> later milestone plan changed later on
+
+Ie. if lit review + 3 materials synthesised. MAke lit review + 1st material plan, then 2 other materials aren't planned

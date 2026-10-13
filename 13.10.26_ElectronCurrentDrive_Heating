@@ -7,3 +7,14 @@ RF - 3KHz and 300GHz, microwave is a subset from 300MHz and 300 GHz
 Current drive - ions make thousands of gyrations, electrons make millions of gyrations per turn. This is called cyclotron frequency, if RF matches the frequency ions absorb the energy increasing kinetic energy
 
 Can keep RF generator far away and use wave guides, this RF generator is a gyrotron. Gyrotrons are hard to get. Tokamak energy, Talus, and CPI. Only 20 are made a month, steep needs 200
+
+Types of waveguide. Smooth has large losses at high power and in bends, corrugated can support different power modes. Quasi optics at bends. 1% loss using mirror at 45 degrees at 90 degrees waveguide.
+
+Different method is using pairs of mirrors to guide beams in space. some focus, some steer - doesn't need evacuated tube till power is high.
+
+
+	• ECRH: Directly heats the electrons in the plasma using high-frequency microwaves tuned to the electron gyrofrequency. Electrons then transfer some of that energy to ions through collisions.
+	• ICRH: Directly transfers energy to the heavier ions (and minority species) using radio waves tuned to the ion cyclotron motion, which eventually heats both ions and electrons in nearly equal fractions.
+• Operating Frequencies:
+	• ECRH: Uses very high frequencies in the microwave band (typically around 100 to 170 GHz, such as 170 GHz on ITER).
+	• ICRH: Uses lower radio frequencies in the megahertz range (typically 40 to 55 MHz).
